@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["assignments-create"],{"3e96":function(e,n,t){"use strict";t.r(n);var r=t("7a23");function a(e,n,t,a,s,c){return Object(r["r"])(),Object(r["d"])("h2",null,"Create")}var s={name:"AssignmentsCreate"};s.render=a;n["default"]=s}}]);
+//# sourceMappingURL=assignments-create.29855419.js.map
